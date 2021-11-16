@@ -13,7 +13,7 @@
     "@turf/interpolate": "^5.1.5",
     "@turf/nearest-point": "^6.0.1",
     "@turf/points-within-polygon": "^5.1.5",
-    "aws-sdk": "^2.410.0",
+    "aws-sdk": "^2.814.0",
     "simple-statistics": "^7.0.1"
   }
 }
